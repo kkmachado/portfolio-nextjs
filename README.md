@@ -27,7 +27,7 @@ npm install next react react-dom sass
 "scripts": {
    "dev": "next dev",
    "build": "next build && next export"
- }
+}
 ```
 
 
