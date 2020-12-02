@@ -40,4 +40,4 @@ npm install next react react-dom sass
 
 
 ## Deploy
-https://vercel.com/
+Commit to Github and connect repository with [Vercel](https://vercel.com/)
