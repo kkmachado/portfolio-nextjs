@@ -4,12 +4,15 @@
 
 Based on: https://www.youtube.com/watch?v=EW7m2WIvFgQ
 
+
 ## Installation
+* Create repository on Github
 * Install Node.js (https://nodejs.org/)
 * Install Next.js
 * Install React
 * Install React-DOM
 * Install Sass
+
 
 **Terminal commands:**
 ```
@@ -17,6 +20,7 @@ git clone https://github.com/kkmachado/portfolio-nextjs.git
 npm init -y
 npm install next react react-dom sass
 ```
+
 
 **Edit package.json**
 ```
@@ -26,8 +30,14 @@ npm install next react react-dom sass
  }
 ```
 
+
 ## Start server
 `npm run dev`
 
+
 ## Build and Export
 `npm run build`
+
+
+## Deploy
+https://vercel.com/
