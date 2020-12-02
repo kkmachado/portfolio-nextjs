@@ -1,4 +1,4 @@
-# Read Me
+# Read me
 
 **Developed with Next.js**
 
